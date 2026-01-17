@@ -1,9 +1,7 @@
 Project Overview :
-
     An online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.​
 
 Key Points :
-
     . Reduced Customer Engagement: The number of customer interactions and engagement with the site and marketing content has declined.​
 
     . Decreased Conversion Rates: Fewer site visitors are converting into paying customers.​
@@ -14,7 +12,6 @@ Key Points :
       engagement and conversions.​
 
 Key Performance Indicators (KPIs) ​:
-
     . Conversion Rate: Percentage of website visitors who make a purchase.​
 
     . Customer Engagement Rate: Level of interaction with marketing content (clicks, likes, comments).​
