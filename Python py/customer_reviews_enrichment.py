@@ -14,8 +14,8 @@ def fetch_data_from_sql():
     # Define the connection string with parameters for the database connection
     conn_str = (
         "Driver={SQL Server};"  # Specify the driver for SQL Server
-        r"Server=DESKTOP-856QT3B\SQLEXPRESS;"  # Specify your SQL Server instance
-        "Database=MarketingAnalytics;"  # Specify the database name
+        r"Server=;"  # Specify your SQL Server instance
+        "Database=;"  # Specify the database name
         "Trusted_Connection=yes;"  # Use Windows Authentication for the connection
     )
     # Establish the connection to the database
