@@ -38,10 +38,9 @@ The analysis is built on a Star Schema consisting of Fact and Lookup tables:
 ---
 
 ## 🛠️ Tools & Technologies
-* **Data Cleaning & ETL:** SQL / Python (Pandas)
+* **Data Cleaning :** SQL
 * **Sentiment Analysis:** Python for processing customer reviews.
-* **Data Visualization:** Power BI / Tableau
-* **Documentation:** Markdown / GitHub
+* **Data Visualization:** Power BI
 
 ---
 
