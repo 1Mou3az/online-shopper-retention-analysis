@@ -47,7 +47,7 @@ The analysis is built on a Star Schema consisting of Fact and Lookup tables:
 ## 🔗 Live Dashboard & Reports
 | Format | Access Link |
 | :--- | :--- |
-| **Dashboard** | [🔗 Click Here to View Live (Power BI)](YOUR_LINK_HERE) |
+| **Dashboard** | [🔗 View Project Folder](./powerbi) | PowerBI |
 | **Static Report** | <p> 📑<a href="Presentation.pdf">Presentation.pdf</a></p>|
 
 ---
